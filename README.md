@@ -9,10 +9,8 @@ Sketch AI is a full-stack application that leverages advanced AI to transform yo
 
 Experience Sketch AI in action!
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/roma2023/SketchAI/main/assets/demo-video3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/d27b4fcf-e87f-4fdf-b89e-e55caa78aa8b
+
 
 Alternatively, you can watch the demo on [YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).
 
